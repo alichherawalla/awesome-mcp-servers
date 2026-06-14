@@ -260,6 +260,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
+- <img src="https://raw.githubusercontent.com/alichherawalla/video-overlay-kit/main/docs/assets/logo.png" height="14"/> [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Render 4-6s b-roll overlays (title, list, flow, comparison, hub) for portrait and landscape technical videos. Wednesday Solutions design system as the default theme. Free, local, MCP-driven, zero per-render cost.
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
